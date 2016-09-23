@@ -1,4 +1,4 @@
-docker-redis
+docker-redis [![](https://images.microbadger.com/badges/image/enow/redis.svg)](https://hub.docker.com/r/enow/redis/) [![](https://images.microbadger.com/badges/version/enow/redis.svg)](https://hub.docker.com/r/enow/redis/)
 ============
 ```Dockerfile
 FROM        enow/main
